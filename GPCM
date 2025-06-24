@@ -1,0 +1,3 @@
+git add .
+git commit -m "Mostrar carrito y permitir eliminar productos"
+git push origin main
